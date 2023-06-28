@@ -37,10 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    #'rest_framework',
+    'rest_framework',
     'restaurant',
-    #'rest_framework.authtoken',
-    #'djoser',
+    'rest_framework.authtoken',
+    'djoser',
 ]
 
 #DJOSER={"USER_ID_FIELD": "username"}
